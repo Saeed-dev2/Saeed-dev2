@@ -16,7 +16,7 @@
 - 🌍 **IoT and Embedded Systems**: Microcontrollers, IoT Protocols, Sensors, Smart Devices
 
 ## Connect with Me:
-- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammadsaeed)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-saeed-b6176a271/)
 
 ## Languages and Tools:
 ## Languages & Tools:
