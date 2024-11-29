@@ -1,38 +1,25 @@
-# Hi there, I'm Muhammad Saeed 👋
+<h1 align="center">Hi 👋, I'm Muhammad Saeed</h1>
+<h2 align="center">Electrical Engineer focus on Embedded System,Data Science, Machine Learning.</h2>
 
-## About Me:
-- 🎓 I am currently pursuing my Bachelor's degree in Electrical, ELectronics and Telecommunication Engineering.
-- 👨‍💻 I’m a Data Scientist and AI Enthusiast.
+
+- 🎓 I am currently pursuing my *Bachelor's degree in Electrical, ELectronics and Telecommunication Engineering*.
 - 🎓 Currently, I'm working on machine learning and artificial intelligence, learning about advanced algorithms and neural networks.
 - 💼 I previously worked at EPTeck, where I focused on developing smart IoT-based solutions.
 - 🧑‍🔬 I'm passionate about using technology to solve real-world problems and improve the environment.
+- ✨ I love to participate international *Coding Competitions*.
+  
 
-## Skills and Technologies:
-- 🤖 **Machine Learning**: Python, Scikit-learn, TensorFlow, Keras, PyTorch
-- 🌐 **Web Technologies**: JavaScript, Node.js, React
-- 🛠️ **Tools**: Git, Docker, Jupyter Notebook, VS Code
-- 🧠 **Data Science**: Data analysis, Visualization, Time Series Forecasting, Hyperparameter tuning
-- 🌱 **Currently Learning**: Advanced Deep Learning, Computer Vision, Computer Networking
-- 🌍 **IoT and Embedded Systems**: Microcontrollers, IoT Protocols, Sensors, Smart Devices
+- 💬 Ask me about *Embedded System, Machine Learning, Deep Learning, AI*
 
-## Connect with Me:
+
+Connect with Me:
 - 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-saeed-b6176a271/)
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-## Languages & Tools:
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-6E4C13?style=flat&logo=assembly&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Saeed-dev2&show_icons=true&locale=en&layout=compact" alt="Saeed-dev2" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Saeed-dev2&show_icons=true&locale=en" alt="Saeed-dev2" /></p>
 
-
-<!---
-Saeed-dev2/Saeed-dev2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Saeed-dev2&" alt="Saeed-dev2" /></p>
