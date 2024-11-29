@@ -7,7 +7,8 @@
 - 💼 I previously worked at EPTeck, where I focused on developing smart IoT-based solutions.
 - 🧑‍🔬 I'm passionate about using technology to solve real-world problems and improve the environment.
 - ✨ I love to participate international *Coding Competitions*.
-  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Saeed-dev2&label=Profile%20views&color=0e75b6&style=flat" alt="Saeed-dev2" /> </p>
 
 - 💬 Ask me about *Embedded System, Machine Learning, Deep Learning, AI*
 
